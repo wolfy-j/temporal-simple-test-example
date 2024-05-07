@@ -6,7 +6,7 @@ namespace App\Workflow;
 
 use App\Activity\GreetingActivityInterface;
 use Carbon\CarbonInterval;
-use Temporal\Activity\ActivityOptions;
+//use Temporal\Activity\ActivityOptions;
 use Temporal\Workflow;
 
 class GreetingWorkflow implements GreetingWorkflowInterface
