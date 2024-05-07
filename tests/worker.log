@@ -44,3 +44,7 @@
 {"level":"info","ts":1714761551251702763,"logger":"server","msg":"destroy signal received","timeout":30}
 {"level":"info","ts":1714761577926755419,"logger":"server","msg":"destroy signal received","timeout":60}
 {"level":"info","ts":1714761577926743527,"logger":"server","msg":"destroy signal received","timeout":30}
+{"level":"info","ts":1715075113828677584,"logger":"server","msg":"destroy signal received","timeout":60}
+{"level":"info","ts":1715075113828675730,"logger":"server","msg":"destroy signal received","timeout":30}
+{"level":"info","ts":1715075177086783524,"logger":"server","msg":"destroy signal received","timeout":60}
+{"level":"info","ts":1715075177086786970,"logger":"server","msg":"destroy signal received","timeout":30}
